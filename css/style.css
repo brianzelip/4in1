@@ -93,6 +93,7 @@ nav {
 .title {
   font-size: .65rem;
   font-weight: 700;
+  text-align: center;
 }
 @media (min-width: 48em) {
   .toggle-container:hover .toggle-title {
