@@ -62,7 +62,7 @@ body {
     vertical-align: middle;
     border: none;
   }
-}/* /grid */
+}
 
 
 /* Texts
@@ -70,10 +70,7 @@ body {
 h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  
 }
-
-
 
 
 /* Sections
@@ -144,7 +141,6 @@ nav {
 #about {
 
 }
-
 
 
 /* Utilities
