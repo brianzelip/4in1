@@ -105,42 +105,48 @@ nav {
 }
 
 
+#connect,
+#survey,
+#like,
+#about {
+  color: white;
+}
+
 #connect {
-  
+  background-color: #0074D9;
+}
+
+#survey {
+  background-color: green;
+}
+
+#like {
+  background-color: #FF851B;
+}
+
+#about {
+  background-color: rgb(51,51,51);
 }
 @media (min-width: 48em) {
   #connect,
   #survey {
-    border-bottom: .5rem solid blue;
+    border-bottom: .5rem solid white;
   }
 
   #like,
   #about {
-    border-top: .5rem solid blue;
+    border-top: .5rem solid white;
   }
 
   #connect,
   #like {
-    border-right: .5rem solid blue;
+    border-right: .5rem solid white;
   }
 
   #survey,
   #about {
-    border-left: .5rem solid blue;
+    border-left: .5rem solid white;
   }
-}
-
-
-#survey {
-
-}
-
-#like {
-
-}
-
-#about {
-
 }
 
 
