@@ -3,6 +3,7 @@
 
 ###Card games to get you talking &amp; laughing
 
-cards created by @buddytoledo
-
-site created by @bzelip
+- cards by @buddytoledo
+- site by @bzelip
+ 
+This is a recreation of the design on the box of cards. A little jarring no doubt, but responsive and an attempt at solving the break-a-page-up-into-four-equal-spaces challenge.
